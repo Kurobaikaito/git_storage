@@ -1,0 +1,20 @@
+[
+{
+  "directory": "E:/storage/Back-Propagation-Neural-Network/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -std=gnu++11 -o CMakeFiles\\BPNN.dir\\main.cpp.obj -c E:\\storage\\Back-Propagation-Neural-Network\\main.cpp",
+  "file": "E:/storage/Back-Propagation-Neural-Network/main.cpp",
+  "output": "CMakeFiles/BPNN.dir/main.cpp.obj"
+},
+{
+  "directory": "E:/storage/Back-Propagation-Neural-Network/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -std=gnu++11 -o CMakeFiles\\BPNN.dir\\lib\\Utils.cpp.obj -c E:\\storage\\Back-Propagation-Neural-Network\\lib\\Utils.cpp",
+  "file": "E:/storage/Back-Propagation-Neural-Network/lib/Utils.cpp",
+  "output": "CMakeFiles/BPNN.dir/lib/Utils.cpp.obj"
+},
+{
+  "directory": "E:/storage/Back-Propagation-Neural-Network/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -std=gnu++11 -o CMakeFiles\\BPNN.dir\\lib\\Net.cpp.obj -c E:\\storage\\Back-Propagation-Neural-Network\\lib\\Net.cpp",
+  "file": "E:/storage/Back-Propagation-Neural-Network/lib/Net.cpp",
+  "output": "CMakeFiles/BPNN.dir/lib/Net.cpp.obj"
+}
+]
