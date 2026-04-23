@@ -12,77 +12,80 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PkV67XwFLjeD95FOANg_-1" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="" vertex="1">
-          <mxGeometry height="30" width="100" x="80" y="200" as="geometry" />
+        <mxCell id="PkV67XwFLjeD95FOANg_-29" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="90" width="1410" x="80" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="PkV67XwFLjeD95FOANg_-2" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;arrowWidth=0.3333333333333333;arrowSize=0.1686046511627907;" value="" vertex="1">
-          <mxGeometry height="30" width="430" x="200" y="180" as="geometry" />
+        <mxCell id="PkV67XwFLjeD95FOANg_-1" parent="PkV67XwFLjeD95FOANg_-29" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="" vertex="1">
+          <mxGeometry height="30" width="100" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="PkV67XwFLjeD95FOANg_-3" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;arrowWidth=0.3333333333333333;arrowSize=0.15166666666666667;" value="" vertex="1">
-          <mxGeometry height="30" width="600" x="650" y="180" as="geometry" />
+        <mxCell id="PkV67XwFLjeD95FOANg_-2" parent="PkV67XwFLjeD95FOANg_-29" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;arrowWidth=0.3333333333333333;arrowSize=0.1686046511627907;" value="" vertex="1">
+          <mxGeometry height="30" width="430" x="120" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="PkV67XwFLjeD95FOANg_-4" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
-          <mxGeometry height="30" width="100" x="1270" y="200" as="geometry" />
+        <mxCell id="PkV67XwFLjeD95FOANg_-3" parent="PkV67XwFLjeD95FOANg_-29" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;arrowWidth=0.3333333333333333;arrowSize=0.15166666666666667;" value="" vertex="1">
+          <mxGeometry height="30" width="600" x="570" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="PkV67XwFLjeD95FOANg_-6" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" value="" vertex="1">
-          <mxGeometry height="30" width="110" x="200" y="220" as="geometry" />
+        <mxCell id="PkV67XwFLjeD95FOANg_-4" parent="PkV67XwFLjeD95FOANg_-29" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="30" width="100" x="1190" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="PkV67XwFLjeD95FOANg_-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="对输入图像切片" vertex="1">
-          <mxGeometry height="30" width="90" x="80" y="160" as="geometry" />
+        <mxCell id="PkV67XwFLjeD95FOANg_-6" parent="PkV67XwFLjeD95FOANg_-29" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="30" width="110" x="120" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="PkV67XwFLjeD95FOANg_-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="计算并提取多尺度特征" vertex="1">
-          <mxGeometry height="30" width="130" x="320" y="160" as="geometry" />
+        <mxCell id="PkV67XwFLjeD95FOANg_-8" parent="PkV67XwFLjeD95FOANg_-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="对输入图像切片" vertex="1">
+          <mxGeometry height="30" width="90" as="geometry" />
         </mxCell>
-        <mxCell id="PkV67XwFLjeD95FOANg_-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="自注意力计算" vertex="1">
-          <mxGeometry height="30" width="90" x="200" y="200" as="geometry" />
+        <mxCell id="PkV67XwFLjeD95FOANg_-10" parent="PkV67XwFLjeD95FOANg_-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="计算并提取多尺度特征" vertex="1">
+          <mxGeometry height="30" width="130" x="240" as="geometry" />
         </mxCell>
-        <mxCell id="PkV67XwFLjeD95FOANg_-12" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" value="" vertex="1">
-          <mxGeometry height="30" width="130" x="320" y="220" as="geometry" />
+        <mxCell id="PkV67XwFLjeD95FOANg_-11" parent="PkV67XwFLjeD95FOANg_-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="自注意力计算" vertex="1">
+          <mxGeometry height="30" width="90" x="120" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="PkV67XwFLjeD95FOANg_-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="卷积提供位置信息" vertex="1">
-          <mxGeometry height="30" width="100" x="320" y="200" as="geometry" />
+        <mxCell id="PkV67XwFLjeD95FOANg_-12" parent="PkV67XwFLjeD95FOANg_-29" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="30" width="130" x="240" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="PkV67XwFLjeD95FOANg_-14" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" value="" vertex="1">
-          <mxGeometry height="30" width="120" x="460" y="220" as="geometry" />
+        <mxCell id="PkV67XwFLjeD95FOANg_-13" parent="PkV67XwFLjeD95FOANg_-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="卷积提供位置信息" vertex="1">
+          <mxGeometry height="30" width="100" x="240" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="PkV67XwFLjeD95FOANg_-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="切片送入下一层" vertex="1">
-          <mxGeometry height="30" width="100" x="460" y="200" as="geometry" />
+        <mxCell id="PkV67XwFLjeD95FOANg_-14" parent="PkV67XwFLjeD95FOANg_-29" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="30" width="120" x="380" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="PkV67XwFLjeD95FOANg_-17" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" value="" vertex="1">
-          <mxGeometry height="30" width="90" x="660" y="220" as="geometry" />
+        <mxCell id="PkV67XwFLjeD95FOANg_-15" parent="PkV67XwFLjeD95FOANg_-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="切片送入下一层" vertex="1">
+          <mxGeometry height="30" width="100" x="380" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="PkV67XwFLjeD95FOANg_-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="跳跃连接" vertex="1">
-          <mxGeometry height="30" width="90" x="650" y="200" as="geometry" />
+        <mxCell id="PkV67XwFLjeD95FOANg_-17" parent="PkV67XwFLjeD95FOANg_-29" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="30" width="90" x="580" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="PkV67XwFLjeD95FOANg_-19" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" value="" vertex="1">
-          <mxGeometry height="30" width="140" x="760" y="220" as="geometry" />
+        <mxCell id="PkV67XwFLjeD95FOANg_-18" parent="PkV67XwFLjeD95FOANg_-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="跳跃连接" vertex="1">
+          <mxGeometry height="30" width="90" x="570" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="PkV67XwFLjeD95FOANg_-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="上采样至同一分辨率" vertex="1">
-          <mxGeometry height="30" width="110" x="760" y="200" as="geometry" />
+        <mxCell id="PkV67XwFLjeD95FOANg_-19" parent="PkV67XwFLjeD95FOANg_-29" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="30" width="140" x="680" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="PkV67XwFLjeD95FOANg_-21" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" value="" vertex="1">
-          <mxGeometry height="30" width="110" x="910" y="220" as="geometry" />
+        <mxCell id="PkV67XwFLjeD95FOANg_-20" parent="PkV67XwFLjeD95FOANg_-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="上采样至同一分辨率" vertex="1">
+          <mxGeometry height="30" width="110" x="680" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="PkV67XwFLjeD95FOANg_-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="卷积融合特征" vertex="1">
-          <mxGeometry height="30" width="90" x="910" y="200" as="geometry" />
+        <mxCell id="PkV67XwFLjeD95FOANg_-21" parent="PkV67XwFLjeD95FOANg_-29" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="30" width="110" x="830" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="PkV67XwFLjeD95FOANg_-23" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" value="" vertex="1">
-          <mxGeometry height="30" width="160" x="1030" y="220" as="geometry" />
+        <mxCell id="PkV67XwFLjeD95FOANg_-22" parent="PkV67XwFLjeD95FOANg_-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="卷积融合特征" vertex="1">
+          <mxGeometry height="30" width="90" x="830" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="PkV67XwFLjeD95FOANg_-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="批归一化后送至上层" vertex="1">
-          <mxGeometry height="30" width="110" x="1040" y="200" as="geometry" />
+        <mxCell id="PkV67XwFLjeD95FOANg_-23" parent="PkV67XwFLjeD95FOANg_-29" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="30" width="160" x="950" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="PkV67XwFLjeD95FOANg_-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="逐层上采样，融合多尺度特征" vertex="1">
-          <mxGeometry height="30" width="170" x="840" y="160" as="geometry" />
+        <mxCell id="PkV67XwFLjeD95FOANg_-24" parent="PkV67XwFLjeD95FOANg_-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="批归一化后送至上层" vertex="1">
+          <mxGeometry height="30" width="110" x="960" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="PkV67XwFLjeD95FOANg_-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="还原分辨率" vertex="1">
-          <mxGeometry height="30" width="110" x="1260" y="160" as="geometry" />
+        <mxCell id="PkV67XwFLjeD95FOANg_-25" parent="PkV67XwFLjeD95FOANg_-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="逐层上采样，融合多尺度特征" vertex="1">
+          <mxGeometry height="30" width="170" x="760" as="geometry" />
         </mxCell>
-        <mxCell id="PkV67XwFLjeD95FOANg_-27" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
-          <mxGeometry height="30" width="100" x="1390" y="200" as="geometry" />
+        <mxCell id="PkV67XwFLjeD95FOANg_-26" parent="PkV67XwFLjeD95FOANg_-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="还原分辨率" vertex="1">
+          <mxGeometry height="30" width="110" x="1180" as="geometry" />
         </mxCell>
-        <mxCell id="PkV67XwFLjeD95FOANg_-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="输出分割图" vertex="1">
-          <mxGeometry height="30" width="110" x="1380" y="160" as="geometry" />
+        <mxCell id="PkV67XwFLjeD95FOANg_-27" parent="PkV67XwFLjeD95FOANg_-29" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
+          <mxGeometry height="30" width="100" x="1310" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PkV67XwFLjeD95FOANg_-28" parent="PkV67XwFLjeD95FOANg_-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="输出分割图" vertex="1">
+          <mxGeometry height="30" width="110" x="1300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
