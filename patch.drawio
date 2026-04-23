@@ -15,23 +15,38 @@
         <mxCell id="PkV67XwFLjeD95FOANg_-1" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="" vertex="1">
           <mxGeometry height="30" width="100" x="80" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="PkV67XwFLjeD95FOANg_-2" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="" vertex="1">
-          <mxGeometry height="30" width="240" x="200" y="180" as="geometry" />
+        <mxCell id="PkV67XwFLjeD95FOANg_-2" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;arrowWidth=0.3333333333333333;arrowSize=0.1686046511627907;" value="" vertex="1">
+          <mxGeometry height="30" width="430" x="200" y="180" as="geometry" />
         </mxCell>
         <mxCell id="PkV67XwFLjeD95FOANg_-3" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="" vertex="1">
-          <mxGeometry height="30" width="100" x="300" y="90" as="geometry" />
+          <mxGeometry height="30" width="100" x="650" y="180" as="geometry" />
         </mxCell>
         <mxCell id="PkV67XwFLjeD95FOANg_-4" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="" vertex="1">
           <mxGeometry height="30" width="100" x="440" y="80" as="geometry" />
         </mxCell>
         <mxCell id="PkV67XwFLjeD95FOANg_-6" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="" vertex="1">
-          <mxGeometry height="30" width="100" x="200" y="220" as="geometry" />
+          <mxGeometry height="30" width="110" x="200" y="220" as="geometry" />
         </mxCell>
         <mxCell id="PkV67XwFLjeD95FOANg_-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="对输入图像切片" vertex="1">
           <mxGeometry height="30" width="90" x="80" y="160" as="geometry" />
         </mxCell>
         <mxCell id="PkV67XwFLjeD95FOANg_-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="计算并提取多尺度特征" vertex="1">
-          <mxGeometry height="30" width="130" x="240" y="160" as="geometry" />
+          <mxGeometry height="30" width="130" x="320" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="PkV67XwFLjeD95FOANg_-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="自注意力计算" vertex="1">
+          <mxGeometry height="30" width="90" x="200" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="PkV67XwFLjeD95FOANg_-12" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="" vertex="1">
+          <mxGeometry height="30" width="130" x="320" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="PkV67XwFLjeD95FOANg_-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="卷积提供位置信息" vertex="1">
+          <mxGeometry height="30" width="100" x="320" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="PkV67XwFLjeD95FOANg_-14" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="" vertex="1">
+          <mxGeometry height="30" width="120" x="460" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="PkV67XwFLjeD95FOANg_-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="切片送入下一层" vertex="1">
+          <mxGeometry height="30" width="100" x="460" y="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
