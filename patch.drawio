@@ -8,7 +8,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BU7R5XegCgFA7vbv8ob2" name="第 2 页">
-    <mxGraphModel dx="766" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="766" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -86,6 +86,33 @@
         </mxCell>
         <mxCell id="PkV67XwFLjeD95FOANg_-28" parent="PkV67XwFLjeD95FOANg_-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="输出分割图" vertex="1">
           <mxGeometry height="30" width="110" x="1300" as="geometry" />
+        </mxCell>
+        <mxCell id="PkV67XwFLjeD95FOANg_-32" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=30;" value="" vertex="1">
+          <mxGeometry height="50" width="90" x="280" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="PkV67XwFLjeD95FOANg_-37" edge="1" parent="1" source="PkV67XwFLjeD95FOANg_-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=90;exitDy=40;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="PkV67XwFLjeD95FOANg_-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PkV67XwFLjeD95FOANg_-33" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=30;" value="" vertex="1">
+          <mxGeometry height="50" width="90" x="280" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="PkV67XwFLjeD95FOANg_-34" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=30;" value="" vertex="1">
+          <mxGeometry height="50" width="90" x="280" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="PkV67XwFLjeD95FOANg_-42" edge="1" parent="1" source="PkV67XwFLjeD95FOANg_-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="PkV67XwFLjeD95FOANg_-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PkV67XwFLjeD95FOANg_-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;9.454ex&quot; height=&quot;2.149ex&quot; role=&quot;img&quot; viewBox=&quot;0 -750 4178.8 950&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; style=&quot;vertical-align: -0.452ex;&quot;&gt;&lt;defs&gt;&lt;path id=&quot;MJX-2-TEX-N-31&quot; d=&quot;M416 0L427 0L427 46L401 46L368 46C338 46 317 47 303 61L302 361L302 660C296 665 298 666 285 666C276 666 275 666 273 663C268 658 251 645 242 640C205 617 158 604 102 602L83 602L83 556L102 556C140 557 176 564 205 575C209 577 212 578 213 578L213 61C206 56 201 50 189 49C178 47 143 46 114 46L88 46L88 0L100 0C117 3 225 3 257 3C289 3 399 3 416 0Z&quot;&gt;&lt;/path&gt;&lt;path id=&quot;MJX-2-TEX-N-D7&quot; d=&quot;M630 29C630 32 629 35 628 37C627 39 596 71 522 145L418 250L522 355C596 429 627 461 628 463C629 465 630 468 630 471C630 482 621 491 609 491C602 491 593 482 493 382L389 278L284 383C209 457 177 488 175 489C172 490 170 491 167 491C156 491 147 481 147 471C147 468 148 466 149 463C151 459 174 435 255 354L359 250L255 146C174 65 151 41 149 37C148 34 147 32 147 29C147 19 156 9 167 9C170 9 172 10 175 11C177 12 209 43 284 117L389 222L493 118C593 18 602 9 609 9C621 9 630 18 630 29Z&quot;&gt;&lt;/path&gt;&lt;path id=&quot;MJX-2-TEX-N-A0&quot; d=&quot;&quot;&gt;&lt;/path&gt;&lt;/defs&gt;&lt;g stroke=&quot;currentColor&quot; fill=&quot;currentColor&quot; stroke-width=&quot;0&quot; transform=&quot;scale(1,-1)&quot;&gt;&lt;g data-mml-node=&quot;math&quot; data-latex=&quot;1 \times 1 \ \text{卷积}&quot;&gt;&lt;g data-mml-node=&quot;mn&quot; data-latex=&quot;1&quot;&gt;&lt;use data-c=&quot;31&quot; xlink:href=&quot;#MJX-2-TEX-N-31&quot;&gt;&lt;/use&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mo&quot; data-latex=&quot;\times&quot; transform=&quot;translate(722.2,0)&quot;&gt;&lt;use data-c=&quot;D7&quot; xlink:href=&quot;#MJX-2-TEX-N-D7&quot;&gt;&lt;/use&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mn&quot; data-latex=&quot;1&quot; transform=&quot;translate(1722.4,0)&quot;&gt;&lt;use data-c=&quot;31&quot; xlink:href=&quot;#MJX-2-TEX-N-31&quot;&gt;&lt;/use&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mtext&quot; data-latex=&quot;\&quot; transform=&quot;translate(2222.4,0)&quot;&gt;&lt;use data-c=&quot;A0&quot; xlink:href=&quot;#MJX-2-TEX-N-A0&quot;&gt;&lt;/use&gt;&lt;/g&gt;&lt;g data-mml-node=&quot;mtext&quot; data-latex=&quot;\text{卷积}&quot; transform=&quot;translate(2472.4,0)&quot;&gt;&lt;text data-variant=&quot;normal&quot; transform=&quot;scale(1,-1)&quot; font-size=&quot;853.2px&quot; font-family=&quot;serif&quot;&gt;卷积&lt;/text&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;" vertex="1">
+          <mxGeometry height="40" width="90" x="440" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="PkV67XwFLjeD95FOANg_-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
+          <mxGeometry height="30" width="60" x="470" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="PkV67XwFLjeD95FOANg_-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="多尺度融合解码器" vertex="1">
+          <mxGeometry height="30" width="100" x="275" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="PkV67XwFLjeD95FOANg_-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;align=center;fontStyle=0;fillColor=default;strokeColor=default;fontFamily=Helvetica;" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;$$ \text{&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;中间辅助分支}$$&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="90" x="570" y="545" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
