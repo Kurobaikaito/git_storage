@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JxBQeYfJjaiJnepnK9ZX-177" connectable="0" parent="1" style="group" value="" vertex="1">
+        <mxCell id="JxBQeYfJjaiJnepnK9ZX-177" connectable="0" parent="1" style="group;fontSize=15;" value="" vertex="1">
           <mxGeometry height="620" width="1510" x="540" y="80" as="geometry" />
         </mxCell>
         <mxCell id="JxBQeYfJjaiJnepnK9ZX-169" parent="JxBQeYfJjaiJnepnK9ZX-177" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#66CC00;" value="" vertex="1">
@@ -264,7 +264,7 @@
         <mxCell id="JxBQeYfJjaiJnepnK9ZX-175" parent="JxBQeYfJjaiJnepnK9ZX-177" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontStyle=0" value="融合多尺度解码器" vertex="1">
           <mxGeometry height="30" width="330" x="570" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="JxBQeYfJjaiJnepnK9ZX-176" edge="1" parent="JxBQeYfJjaiJnepnK9ZX-177" source="JxBQeYfJjaiJnepnK9ZX-37" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;shadow=0;flowAnimation=0;fillColor=#f9f7ed;strokeColor=#36393d;" target="JxBQeYfJjaiJnepnK9ZX-107" value="">
+        <mxCell id="JxBQeYfJjaiJnepnK9ZX-176" edge="1" parent="JxBQeYfJjaiJnepnK9ZX-177" source="JxBQeYfJjaiJnepnK9ZX-37" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;shadow=0;flowAnimation=0;fillColor=#f9f7ed;strokeColor=#36393d;strokeWidth=2;" target="JxBQeYfJjaiJnepnK9ZX-107" value="">
           <mxGeometry height="100" relative="1" width="100" as="geometry">
             <Array as="points">
               <mxPoint x="880" y="440" />
@@ -272,6 +272,9 @@
             <mxPoint x="770" y="620" as="sourcePoint" />
             <mxPoint x="870" y="520" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="87viBL3Ex6mBMBfzLLiu-2" parent="JxBQeYfJjaiJnepnK9ZX-177" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="通过逐层上采样融合特征" vertex="1">
+          <mxGeometry height="40" width="220" x="628" y="490" as="geometry" />
         </mxCell>
         <mxCell id="JxBQeYfJjaiJnepnK9ZX-183" edge="1" parent="1" source="JxBQeYfJjaiJnepnK9ZX-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" target="JxBQeYfJjaiJnepnK9ZX-181">
           <mxGeometry relative="1" as="geometry" />
