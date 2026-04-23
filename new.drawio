@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="zpjJPsJoNJDCtQUnxpdq">
+    <mxGraphModel dx="766" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BIZDd-PcHShIVeNHireO-6" edge="1" parent="1" source="fsR1yipzuGuaH-mp_UO5-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="BIZDd-PcHShIVeNHireO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fsR1yipzuGuaH-mp_UO5-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=18;" value="重叠切片嵌入" vertex="1">
+          <mxGeometry height="40" width="160" x="140" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BIZDd-PcHShIVeNHireO-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=18;" value="Transformer Block 1" vertex="1">
+          <mxGeometry height="40" width="200" x="120" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="BIZDd-PcHShIVeNHireO-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=18;" value="Transformer Block 2" vertex="1">
+          <mxGeometry height="40" width="200" x="120" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="BIZDd-PcHShIVeNHireO-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=18;" value="Transformer Block 3" vertex="1">
+          <mxGeometry height="40" width="200" x="120" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="BIZDd-PcHShIVeNHireO-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=18;" value="Transformer Block 4" vertex="1">
+          <mxGeometry height="40" width="200" x="120" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="BIZDd-PcHShIVeNHireO-8" edge="1" parent="1" source="BIZDd-PcHShIVeNHireO-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="fsR1yipzuGuaH-mp_UO5-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BIZDd-PcHShIVeNHireO-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=18;" value="输入图像" vertex="1">
+          <mxGeometry height="40" width="160" x="140" as="geometry" />
+        </mxCell>
+        <mxCell id="BIZDd-PcHShIVeNHireO-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=15;" value="$\frac{H}{4} \times \frac{W}{4} \times 32$" vertex="1">
+          <mxGeometry height="40" width="200" x="360" y="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
